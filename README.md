@@ -46,7 +46,7 @@ O sistema analisa dados simulados de temperatura, comunicação, bateria, oxigê
 
 ### Relatório Final
 
-![Relatorio Final](assets/relatorio_final.png)
+![Relatorio Final](file:///C:/Users/joaov/Downloads/image.png)
 
 ## Como Executar
 
