@@ -42,7 +42,7 @@ O sistema analisa dados simulados de temperatura, comunicação, bateria, oxigê
 
 ### Cenário Crítico
 
-![Ciclo Critico](assets/ciclo_critico.png)
+![Ciclo Critico](file:///C:/Users/joaov/Downloads/image.png)
 
 ### Relatório Final
 
