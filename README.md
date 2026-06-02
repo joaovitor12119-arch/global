@@ -38,15 +38,15 @@ O sistema analisa dados simulados de temperatura, comunicação, bateria, oxigê
 
 ### Sistema em Operação
 
-![Ciclo Normal](file:///C:/Users/joaov/Downloads/image.png)
+![Ciclo Normal](assets)
 
 ### Cenário Crítico
 
-![Ciclo Critico](file:///C:/Users/joaov/Downloads/image.png)
+![Ciclo Critico](assets)
 
 ### Relatório Final
 
-![Relatorio Final](file:///C:/Users/joaov/Downloads/image.png)
+![Relatorio Final](assets)
 
 ## Como Executar
 
