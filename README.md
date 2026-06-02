@@ -38,7 +38,7 @@ O sistema analisa dados simulados de temperatura, comunicação, bateria, oxigê
 
 ### Sistema em Operação
 
-![Ciclo Normal](assets/ciclo_normal.png)
+![Ciclo Normal](file:///C:/Users/joaov/Downloads/image.png)
 
 ### Cenário Crítico
 
