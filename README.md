@@ -61,7 +61,7 @@ O sistema analisa dados simulados de temperatura, comunicação, bateria, oxigê
 
 ## Vídeo de Demonstração
 
-[Assistir ao Vídeo](https://docs.google.com/videos/d/1AUaRCWbphrgoJ5jYz4HDi9yY0Aw9MkxrW5GYSG3G0Lo/edit?usp=sharing)
+[Assistir ao Vídeo](https://github.com/joaovitor12119-arch/global.git )
 
 ## Estrutura do Projeto
 
